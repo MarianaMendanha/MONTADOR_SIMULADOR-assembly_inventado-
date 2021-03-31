@@ -9,6 +9,7 @@ NOTA: EXISTEM 2 ARQUIVOS .CPP SENDO UM O MONTADOR E O OUTRO O SIMULADOR
 2.SIMULADOR
 
 A COMPILAÇÃO FUNCIONA DA SEGUINTE FORMA:
+
 1.Utilizando um arquivo .asm já existente (código com a linguagem hipotética) 
   como arquivo de entrada na linha de comando no formato "./montador myprogram.asm" obtem-se
   caso o código .asm esteja escrito de acordo com as especificações passadas, um arquivo de
